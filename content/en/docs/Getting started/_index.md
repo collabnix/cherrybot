@@ -19,3 +19,4 @@ description: >
 | 7 | Digital Multimeter | [Buy](https://www.amazon.in/Fluke-106-Sized-Digital-Multimeter/) | | 
 | 8 | Soldering Workstation | [Buy](https://sumitron.com/product/hakko-fx-801-soldering-station/) | |
 | 9 | Soldering Mat | [Buy](https://www.amazon.in/Scout-Insulation-Silicone-Magnetic-Soldering/dp/B07W98FT6D/ref=sr_1_1?dchild=1&keywords=soldering%2Bmat&qid=1629225089&refinements=p_72%3A1318476031&rnid=1318475031&sr=8-1&th=1) | |
+| 10 | Noctua Fans | [Buy](https://www.primeabgb.com/online-price-reviews-india/nocuta-nf-a14-ippc-3000-pwm-140mm-pwm-aao-frame-technology-and-sso2-bearing-fan/) | | 
