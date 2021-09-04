@@ -3,35 +3,34 @@ title: "Overview"
 linkTitle: "Overview"
 weight: 1
 description: >
-  Here's where your user finds out if your project is for them.
+  A Quick Overview of CherryBot Robot Systems
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+This page talks about overall details related to CherryBot Robot Systems
 {{% /pageinfo %}}
 
 
-The Overview is where your users find out about your project. Depending on the size of your docset, you can have a separate overview page (like this one) or put your overview contents in the Documentation landing page (like in the Docsy User Guide). 
-
-Try answering these questions for your user in this page:
 
 ## What is it?
 
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
+A CherryBot is an autonomous robotic system powered with production-ready System on Module(SOM) NVIDIA Jetson Nano board, a low-powered AI deployed as Edge device, a sensor suite that includes multiple cameras, GPS and swappable batteries.It is an autonomous delivery robot which picks up and delivers swags and food items within a conference, campus or a roughly 5-6 square kilometers area centered around university premises. The goal is to allow the robot to traverse a given conference and campus area delimited by coordinates on a GPS receiver, detect and avoid obstacles in its path, thereby distributing swags and food items using Deep Learning algorithm.
 
-## Why do I want it?
+## How did you develop it?
 
-Help your user know if your project will help them. Useful information can include: 
+This DIY project involves both hardware and software development.
 
-* **What is it good for?**: What types of problems does your project solve? What are the benefits of using it?
+- In the hardware part we will leverage robotic components, both in terms of aerial as well as terrestrial locomotion.
+- The software part will involve developing an encrypted QR code generator which runs inside the Docker container and detects the QR code sign to deliver the package.
 
-* **What is it not good for?**: For example, point out situations that might intuitively seem suited for your project, but aren't for some reason. Also mention known limitations, scaling issues, or anything else that might let your users know if the project is not for them.
+* **What is it good for?**: CherryBot Robotic Platform is a game-changing educational robot built to unlock the potential in every learner. It provides users with an in-depth understanding of Artificial Intelligence, IoT Edge devices (such as Jetson Nano and Xavier)
 
-* **What is it *not yet* good for?**: Highlight any useful features that are coming soon.
+* **What is it not good for?**: This is just a prototype and not to be used for production
+
+* **What is it *not yet* good for?**: It is still under-development
 
 ## Where should I go next?
 
-Give your users next steps from the Overview. For example:
 
 * [Getting Started](/docs/getting-started/): Get started with $project
 * [Examples](/docs/examples/): Check out some example code!
