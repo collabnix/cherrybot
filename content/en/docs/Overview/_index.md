@@ -31,9 +31,6 @@ CherryBot Robotic Platform is a game-changing educational robot built to unlock 
 
 This is just a prototype and not to be used for production
 
-## What is it *not yet* good for? 
-
-It is still under-development
 
 ## Where should I go next?
 
