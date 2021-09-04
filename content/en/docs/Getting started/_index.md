@@ -21,5 +21,6 @@ description: >
 | 9 | Soldering Mat | [Buy](https://www.amazon.in/Scout-Insulation-Silicone-Magnetic-Soldering/dp/B07W98FT6D/) | |
 | 10 | SD Card 128 GB | [Buy](https://www.amazon.in/SanDisk-microSDXC-Memory-Adapter-SDSQUAR-128G-GN6MA/dp/B073JYC4XM/) | | 
 | 11 | Noctua Fans | [Buy](https://www.primeabgb.com/online-price-reviews-india/nocuta-nf-a14-ippc-3000-pwm-140mm-pwm-aao-frame-technology-and-sso2-bearing-fan/) | | 12 | USB C Power Cable | [Buy]() | | 
+| 13 | Prusa i3 MK3S | [Buy](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html) | | 
 
 
