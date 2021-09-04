@@ -4,10 +4,9 @@ title: "Running Your First Jetson Container"
 linkTitle: "Running Your First Jetson Container"
 date: 2021-09-04
 description: >
-  A short lead description about this content page. Text here can also be **bold** or _italic_ and can even be split over multiple paragraphs.
+  Learn how to get started with Docker on NVIDIA Jetson Nano
 ---
 
-# Getting Started with NVIDIA Jetson Nano
 
 
 
