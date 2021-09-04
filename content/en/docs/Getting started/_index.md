@@ -10,8 +10,8 @@ description: >
 
 | S. No. |Items        |   Link        | Reference  |
 | ------------- |:-------------:| -----:| -----:|
-| 1 | Jetson Nano 4GB| [Buy](https://www.tannatechbiz.com/brand/nvidia/nvidia-development-board.html) |  |
-| 2 | Jetson AGX Xavier | [Buy](https://www.tannatechbiz.com/brand/nvidia/nvidia-development-board.html) |  |
+| 1 | Jetson Nano 4GB(Development)| [Buy](https://www.tannatechbiz.com/brand/nvidia/nvidia-development-board.html) |  |
+| 2 | Jetson AGX Xavier(Production) ) | [Buy](https://www.tannatechbiz.com/brand/nvidia/nvidia-development-board.html) |  |
 | 3 | Arduino Uno | [Buy](https://robu.in/product/original-arduino-uno-rev3/) | |
 | 4 | Arduino Power Supply | [Buy](https://robu.in/product/orange-5v-3a-power-supply-adapter-charger-with-5-5mm-dc-plug/) | |
 | 6 | Motor Shield | [Buy](https://robu.in/product/l298p-motor-driver-shield-for-arduino/) | | 
