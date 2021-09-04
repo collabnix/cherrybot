@@ -23,11 +23,17 @@ This DIY project involves both hardware and software development.
 - In the hardware part we will leverage robotic components, both in terms of aerial as well as terrestrial locomotion.
 - The software part will involve developing an encrypted QR code generator which runs inside the Docker container and detects the QR code sign to deliver the package.
 
-* **What is it good for?**: CherryBot Robotic Platform is a game-changing educational robot built to unlock the potential in every learner. It provides users with an in-depth understanding of Artificial Intelligence, IoT Edge devices (such as Jetson Nano and Xavier)
+## What is it good for?
 
-* **What is it not good for?**: This is just a prototype and not to be used for production
+CherryBot Robotic Platform is a game-changing educational robot built to unlock the potential in every learner. It provides users with an in-depth understanding of Artificial Intelligence, IoT Edge devices (such as Jetson Nano and Xavier)
 
-* **What is it *not yet* good for?**: It is still under-development
+## What is it not good for?
+
+This is just a prototype and not to be used for production
+
+## What is it *not yet* good for? 
+
+It is still under-development
 
 ## Where should I go next?
 
