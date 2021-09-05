@@ -24,4 +24,10 @@ description: >
 | 12 | Noctua Fans | [Buy](https://www.primeabgb.com/online-price-reviews-india/nocuta-nf-a14-ippc-3000-pwm-140mm-pwm-aao-frame-technology-and-sso2-bearing-fan/) | | 13 | USB C Power Cable | [Buy]() | | 
 | 14 | Prusa i3 MK3S | [Buy](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html) | | 
 
+## Arduino Uno 
+
+![My Image](arduino.png)
+
+The Arduino Uno R3 with Cable is a microcontroller board based on the ATmega328. It has 14 digital input/output pins (of which 6 can be used as PWM outputs); 6 analog inputs, a 16 MHz ceramic resonator, a USB connection, a power jack, an ICSP header, and a reset button
+
 
