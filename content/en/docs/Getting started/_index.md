@@ -99,7 +99,7 @@ This is a tiny and compact digital voltmeter with a red LED Display. The 0 to 10
 
 ## Jetson Nano
 
-![My Image](jetsonnano.png)
+![My Image](jetsonnano1.png)
 
 
 
