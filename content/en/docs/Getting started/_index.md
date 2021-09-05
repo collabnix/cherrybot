@@ -26,7 +26,11 @@ description: >
 
 
 
-## Prusa i3 MKS
+## Prusa i3 MKS(3D Printer)
+
+Prusa i3 comes with a brand new SuperPINDA probe for improved first layer calibration, added high-quality Misumi bearings and various useful design tweaks to make the printer easier to assemble and maintain. The MK3S+ includes all the proven features of the previous models, including the heatbed with removable PEI spring steel print sheets, automatic Mesh Bed Leveling, filament sensor, power loss recovery (power panic) and safety features. And it is still as silent as ever!
+
+The Original Prusa i3 MK3S+ is the latest version of our award-winning 3D printers. We have upgraded the MK3S with a brand new SuperPINDA probe for improved first layer calibration, added high-quality Misumi bearings and made various useful design tweaks
 
 ![image](prusa.png)
 
