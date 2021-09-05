@@ -28,7 +28,9 @@ description: >
 
 ## Prusa i3 MKS(3D Printer)
 
-Prusa i3 comes with a brand new SuperPINDA probe for improved first layer calibration, added high-quality Misumi bearings and various useful design tweaks to make the printer easier to assemble and maintain. The MK3S+ includes all the proven features of the previous models, including the heatbed with removable PEI spring steel print sheets, automatic Mesh Bed Leveling, filament sensor, power loss recovery (power panic) and safety features. And it is still as silent as ever!
+Prusa i3 uses 3D printing filament as feedstock to make parts. It is simple to use and consistently produced good-quality prints. Prusa i3 comes with a brand new SuperPINDA probe for improved first layer calibration, added high-quality Misumi bearings and various useful design tweaks to make the printer easier to assemble and maintain. This red-and-black printer measures 15 by 19.7 by 22 inches (HWD), excluding the spool and the spool holder, which sit atop the printer. It is considerably larger than the Original Prusa Mini, which measures 14.6 by 13 by 15 inches (HWD). The i3 MK3S also has a larger print volume, 9.8 by 8.3 by 7.9 inches, compared with the 7-by-7-by-7-inch print volume of the Prusa Mini.
+
+
 
 
 ![image](prusa.png)
