@@ -69,7 +69,7 @@ The shield contains two L293D motor drivers and one 74HC595 shift register. The 
 
 ## Weller WE 1010NA soldering Workstation
 
-![image](weller/png)
+![image](weller.png)
 
 
 ## NEO-6M GPS Module with EPROM
