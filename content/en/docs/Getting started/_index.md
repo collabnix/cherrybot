@@ -8,11 +8,11 @@ description: >
 
 ## Preparing Your Environment
 
-| S. No. |Items        |   Link        | Reference  |
+| S. No. |Items        |   Link        | Reference |
 | ------------- |:-------------:| -----:| -----:|
 | 1 | Jetson Nano 4GB(Development)| [Buy](https://www.tannatechbiz.com/brand/nvidia/nvidia-development-board.html) |  |
 | 2 | Jetson AGX Xavier(Production) ) | [Buy](https://www.tannatechbiz.com/brand/nvidia/nvidia-development-board.html) |  |
-| 3 | Arduino Uno | [Buy](https://robu.in/product/original-arduino-uno-rev3/) | |
+| 3 | Arduino Uno | [Buy](https://robu.in/product/original-arduino-uno-rev3/) |  |
 | 4 | Arduino Power Supply | [Buy](https://robu.in/product/orange-5v-3a-power-supply-adapter-charger-with-5-5mm-dc-plug/) | |
 | 6 | L293D Motor Driver  | [Buy](https://robu.in/product/l298p-motor-driver-shield-for-arduino/) |  | 
 | 7 | Cable for Arduino UNO | [Buy](https://robu.in/product/cable-for-arduino-uno-mega-usb-a-to-b-1m/) | | 
@@ -26,8 +26,32 @@ description: >
 
 ## Arduino Uno 
 
+
+The Arduino Uno R3 with Cable is a microcontroller board based on the ATmega328. It has 14 digital input/output pins (of which 6 can be used as PWM outputs); 6 analog inputs, a 16 MHz ceramic resonator, a USB connection, a power jack, an ICSP header, and a reset button.
+
+
+
 ![My Image](arduino.png)
 
-The Arduino Uno R3 with Cable is a microcontroller board based on the ATmega328. It has 14 digital input/output pins (of which 6 can be used as PWM outputs); 6 analog inputs, a 16 MHz ceramic resonator, a USB connection, a power jack, an ICSP header, and a reset button
+
+## 300 RPM BO Motor-Straight 
+
+The 300 RPM BO Motor Plastic Gear Motor – BO series straight motor gives good torque and rpm at lower operating voltages, which is the biggest advantage of these motors.
+Small shaft with matching wheels gives an optimized design for your application or robot. Mounting holes on the body & light weight makes it suitable for in-circuit placement. This motor can be used with 69mm Diameter Wheel for Plastic Gear Motors and 87mm Diameter Multipurpose Wheel for Plastic Gear Motors.
+
+
+![My Image](BOMotor.png)
+
+
+## L293D Motor Driver
+
+The L293D Motor Driver/Servo Shield for Arduino is probably one of the most versatile on the market and features 2 servo and 4 motor connectors for DC or stepper motors.
+This Arduino compatible motor Driver shield is a full-featured product that it can be used to drive 4 DC motor or two 4-wire steppers and two 5v servos. It drives the DC motor and stepper with the L293D, and it drives the servo with Arduino pin9 and pin10.
+The shield contains two L293D motor drivers and one 74HC595 shift register. The shift register expands 3 pins of the Arduino to 8 pins to control the direction of the motor drivers. The output enables the L293D is directly connected to the PWM outputs of the Arduino.
+
+![My Image](MotorDriver.png)
+
+## Fluke 106 Multimeter
+
 
 
