@@ -65,5 +65,44 @@ The shield contains two L293D motor drivers and one 74HC595 shift register. The 
 
 ## Fluke 106 Multimeter
 
+![Image](fluke.png)
+
+## Weller WE 1010NA soldering Workstation
+
+![image](weller/png)
+
+
+## NEO-6M GPS Module with EPROM
+
+![Image](gps.png)
+
+##  MT3608 2A Max DC-DC Step Up Power Module Booster Power Module 
+
+The MT3608 2A Max DC-DC Step Up Power Module Booster Power Module is a low-cost module that can step-up a 2 to 24V input voltage up to a 5 to 28V output at up to 2A.
+
+
+![Image](powermodule.png)
+
+## 0.28 Inch 0-100V Three Wire DC Voltmeter
+
+This is a tiny and compact digital voltmeter with a red LED Display. The 0 to 100 V 0.28-inch Digital Voltage Tester DC VOLTMETER requires only a few minutes of configuration and is as simple as directly connecting wires to the source you want to measure and seeing the LED blink
+
+![Image](voltmeter.png)
+
+## TE-801 Multi-function LED Magnifier PCB Soldering iron Stand Holder Table Magnifying glass 35X 12X w/ 2-LED Light 
+
+![My Image](solderingiron.png)
+
+## Custom Fume extractor 
+
+![My Image](fume-extractor.png)
+
+## Jetson Nano
+
+![My Image](jetsonnano.png)
+
+
+
+
 
 
