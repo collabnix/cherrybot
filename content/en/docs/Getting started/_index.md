@@ -12,11 +12,11 @@ description: >
 | ------------- |:-------------:| -----:| -----:|
 | 1 | Jetson Nano 4GB(Development)| [Buy](https://www.tannatechbiz.com/brand/nvidia/nvidia-development-board.html) | ![Image](jetsonnano1.png) |
 | 2 | Jetson AGX Xavier(Production) ) | [Buy](https://www.tannatechbiz.com/brand/nvidia/nvidia-development-board.html) |  |
-| 3 | Arduino Uno | [Buy](https://robu.in/product/original-arduino-uno-rev3/) | ![My Image](https://github.com/collabnix/cherrybot/blob/master/content/en/docs/Getting%20started/arduino.png)|
+| 3 | Arduino Uno | [Buy](https://robu.in/product/original-arduino-uno-rev3/) | ![My Image](arduino.png)|
 | 4 | Arduino Power Supply | [Buy](https://robu.in/product/orange-5v-3a-power-supply-adapter-charger-with-5-5mm-dc-plug/) | |
-| 6 | L293D Motor Driver  | [Buy](https://robu.in/product/l298p-motor-driver-shield-for-arduino/) | ![My Image](https://github.com/collabnix/cherrybot/blob/master/content/en/docs/Getting%20started/MotorDriver.png) | 
+| 6 | L293D Motor Driver  | [Buy](https://robu.in/product/l298p-motor-driver-shield-for-arduino/) | ![My Image](MotorDriver.png) | 
 | 7 | Cable for Arduino UNO | [Buy](https://robu.in/product/cable-for-arduino-uno-mega-usb-a-to-b-1m/) | | 
-| 8 | 300 RPM BO Motor-Straight | [Buy](https://robu.in/product/300-rpm-bo-motor-straight/) | ![My Image](https://github.com/collabnix/cherrybot/blob/master/content/en/docs/Getting%20started/BOMotor.png)| 
+| 8 | 300 RPM BO Motor-Straight | [Buy](https://robu.in/product/300-rpm-bo-motor-straight/) | ![My Image](BOMotor.png)| 
 | 9 | Digital Multimeter | [Buy](https://www.amazon.in/Fluke-106-Sized-Digital-Multimeter/) | | 
 | 10 | Soldering Workstation | [Buy](https://sumitron.com/product/hakko-fx-801-soldering-station/) | |
 | 11 | Soldering Mat | [Buy](https://www.amazon.in/Scout-Insulation-Silicone-Magnetic-Soldering/dp/B07W98FT6D/) | |
