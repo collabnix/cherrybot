@@ -1,16 +1,22 @@
-# Install Pubnub
+# Stream Data Over PubNub
+
+If you haven’t already done so, [sign up for a free PubNub account](https://admin.pubnub.com/) before you begin this step.
+
+Instead of creating a whole new file from scratch, we’re going to ease the coding process by making just a few modifications to the gps_simpletest.py file we tested earlier. You can pick any of the example tests (or write your own from scratch), but it’s always better to start from a template.  
 
 ```
 pip3 install pubnub
 ```
 
-## cd into the examples directory containing the gps_simpletest.py file and install the PubNub Python SDK.
+## Change directory 
+
+Change directory into the examples directory containing the gps_simpletest.py file and install the PubNub Python SDK.
 
 ```
 pip3 install pubnub
 ```
 
-## Import PubNub packages.
+## Import PubNub Package
 
 ```
 import pubnub
@@ -18,7 +24,9 @@ from pubnub.pnconfiguration import PNConfiguration
 from pubnub.pubnub import PubNub
 from pubnub.callbacks import SubscribeCallback
 from pubnub.enums import PNOperationType, PNStatusCategory
-Configure a PubNub instance with your publish/subscribe keys.
+```
+
+## Configure a PubNub instance with your publish/subscribe Keys
 
 pnconfig = PNConfiguration()
 pnconfig.subscribe_key = "YOUR SUBSCRIBE KEY"
