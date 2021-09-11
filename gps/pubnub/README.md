@@ -2,11 +2,7 @@
 
 If you haven’t already done so, [sign up for a free PubNub account](https://admin.pubnub.com/) before you begin this step.
 
-Instead of creating a whole new file from scratch, we’re going to ease the coding process by making just a few modifications to the gps_simpletest.py file we tested earlier. You can pick any of the example tests (or write your own from scratch), but it’s always better to start from a template.  
 
-```
-pip3 install pubnub
-```
 
 ## Change directory 
 
