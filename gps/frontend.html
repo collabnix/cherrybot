@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <script src="https://cdn.pubnub.com/sdk/javascript/pubnub.4.23.0.js"></script>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+  // the smooth zoom function
+  function smoothZoom (map, max, cnt) {
+      if (cnt >= max) {
+          return;
+      }
+      else {
+          z = google.maps.event.addListener(map, 'zoom_changed', function(event){
+              google.maps.event.removeListener(z);
+              smoothZoom(map, max, cnt + 1);
+          });
+          setTimeout(function(){map.setZoom(cnt)}, 80); // 80ms is what I found to work well on my system -- it might not work well on all systems
+      }
+  } 
+    var pubnub = new PubNub({
+    subscribeKey: "YOUR SUBSCRIBE KEY",
+    ssl: true
+  });  
+  var longitude = 30.5;
+  var latitude = 50.5;
+  pubnub.addListener({
+      message: function(m) {
+          // handle message
+          var channelName = m.channel; // The channel for which the message belongs
+          var channelGroup = m.subscription; // The channel group or wildcard subscription match (if exists)
+          var pubTT = m.timetoken; // Publish timetoken
+          var msg = m.message; // The Payload
+          longitude = msg.longitude;
+          latitude = msg.latitude;
+          var publisher = m.publisher; //The Publisher
+    var myLatlng = new google.maps.LatLng(latitude, longitude);
+    var marker = new google.maps.Marker({
+        position: myLatlng,
+        title:"PubNub GPS"
+    });
+    // To add the marker to the map, call setMap();
+    map.setCenter(marker.position);
+    smoothZoom(map, 14, map.getZoom());
+    marker.setMap(map);
+      },
+      presence: function(p) {
+          // handle presence
+          var action = p.action; // Can be join, leave, state-change or timeout
+          var channelName = p.channel; // The channel for which the message belongs
+          var occupancy = p.occupancy; // No. of users connected with the channel
+          var state = p.state; // User State
+          var channelGroup = p.subscription; //  The channel group or wildcard subscription match (if exists)
+          var publishTime = p.timestamp; // Publish timetoken
+          var timetoken = p.timetoken;  // Current timetoken
+          var uuid = p.uuid; // UUIDs of users who are connected with the channel
+      },
+      status: function(s) {
+          var affectedChannelGroups = s.affectedChannelGroups;
+          var affectedChannels = s.affectedChannels;
+          var category = s.category;
+          var operation = s.operation;
+      }
+  });
+  pubnub.subscribe({
+      channels: ['ch1'],
+  });
+      var map;
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: latitude, lng: longitude},
+          zoom: 8
+        });
+      }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBLuWQHjBa9SMVVDyyqxqTpR2ZwnxwcbGE&callback=initMap"
+    async defer></script>
+  </body>
+</html>
