@@ -41,6 +41,49 @@ The first step is to connect the GPS module to the Raspberry PI. There are only 
 
 ![image](gps2.jpeg)
 
+##  Turn Off the Serial Console
+
+By default, the Raspberry Pi uses the UART as a serial console. We need to turn off that functionality so that we can use the UART for our own application. Open a terminal session on the Raspberry Pi.
+
+### Step 1. Backup the file cmdline.txt 
+
+```
+sudo cp /boot/cmdline.txt /boot/cmdline_backup.txt 
+```
+
+Press Enter.
+
+### Step 2. Edit cmdlint.txt and remove the serial interface
+
+```sudo nano /boot/cmdline.txt
+```
+
+Press Enter.
+
+### Step 3. Delete console=ttyAMA0,115200 
+
+Once you delete it, save the file by pressing Ctrl X, Y, and Enter.
+
+### Step 4. Edit /etc/inittab
+
+```
+sudo nano /etc/inittab 
+```
+
+Press enter.
+
+### Step 5. Find ttyAMA0 
+
+You can find ttyAMA0 by pressing Ctrl W and typing ttyAMA0 on the search line
+
+Press Home > insert a # symbol to comment out that line and Ctrl X, Y, Enter to save.
+
+```
+sudo reboot
+```
+
+Press Enter to restart the Pi.
+
 
 
 
