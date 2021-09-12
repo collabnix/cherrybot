@@ -6,6 +6,8 @@ description: >-
      Getting Started with NVIDIA Jetson AGX Xavier
 ---
 
+![image](https://collabnix.com/wp-content/uploads/2021/09/image-6.png)
+
 ## Getting Started with Jetson AGX Xavier
 
 The NVIDIA® Jetson AGX Xavier™ Developer Kit provides a full-featured development platform designed to get you up and running quickly. The included carrier board
