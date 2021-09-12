@@ -17,10 +17,10 @@ The GPS module has serial TTL output, it has four pins: TX, RX, VCC, and GND. Yo
 
 1. [Intent](#Intent)
 2. [Hardware](#hardware)
-3. [Software](#Software)
-4. [Connect GPS Module to Rasberry Pi](#connect-gps-module-to-raspberry-pi)
-5. [Ploting the GPS Values over Google Map](#ploting-the-GPS-Values-over-Google-Map)
-6. [Stream Data Over PubNub](#stream-data-ver-pubnub)
+3. [Software](#software)
+4. [Connect GPS Module to Rasberry Pi](#connect-the-gps-module-to-raspberry-pi)
+5. [Ploting the GPS Values over Google Map](#ploting-the-gps-values-over-google-map)
+6. [Stream Data Over PubNub](#stream-data-over-pubnub)
 
 ## Intent
 
