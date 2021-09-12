@@ -14,8 +14,8 @@ description: >
 | 2 | Arduino Uno | [Buy](https://robu.in/product/original-arduino-uno-rev3/) |  |
 | 3 | 300 RPM BO Motor-Straight | [Buy](https://robu.in/product/300-rpm-bo-motor-straight/) | | 
 | 4 | L293D Motor Driver  | [Buy](https://robu.in/product/l298p-motor-driver-shield-for-arduino/) |  | 
-| 5 | [Jetson Nano 4GB(Development)](https://cherrybot.collabnix.com/docs/getting-started/nano/| [Buy](https://www.tannatechbiz.com/brand/nvidia/nvidia-development-board.html) |  |
-| 6 | [Jetson AGX Xavier(Production))](https://cherrybot.collabnix.com/docs/getting-started/xavier/) | [Buy](https://www.tannatechbiz.com/brand/nvidia/nvidia-development-board.html) |  |
+| 5 | [Jetson Nano 4GB](https://cherrybot.collabnix.com/docs/getting-started/nano/)| [Buy](https://www.tannatechbiz.com/brand/nvidia/nvidia-development-board.html) |  |
+| 6 | [Jetson AGX Xavier](https://cherrybot.collabnix.com/docs/getting-started/xavier/) | [Buy](https://www.tannatechbiz.com/brand/nvidia/nvidia-development-board.html) |  |
 | 7 | Arduino Power Supply | [Buy](https://robu.in/product/orange-5v-3a-power-supply-adapter-charger-with-5-5mm-dc-plug/) | |
 | 8 | Cable for Arduino UNO | [Buy](https://robu.in/product/cable-for-arduino-uno-mega-usb-a-to-b-1m/) | | 
 | 9 | Digital Multimeter | [Buy](https://www.amazon.in/Fluke-106-Sized-Digital-Multimeter/) | | 
