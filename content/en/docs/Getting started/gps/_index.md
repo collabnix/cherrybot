@@ -24,7 +24,7 @@ The GPS module has serial TTL output, it has four pins: TX, RX, VCC, and GND. Yo
 
 ## Intent
 
-How to connect GPS to Raspberry Pi or Arduino and fetch the latitude and longitude values
+How to connect GPS to Raspberry Pi or Arduino, fetch the latitude and longitude values and plot it over Google Map
 
 ## Hardware 
 
