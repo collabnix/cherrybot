@@ -69,9 +69,9 @@ sudo cp /boot/cmdline.txt /boot/cmdline_backup.txt
 
 ### Step 2. Edit cmdlint.txt and remove the serial interface
 
-```sudo nano /boot/cmdline.txt
 ```
-
+sudo nano /boot/cmdline.txt
+```
 
 
 ### Step 3. Delete console=ttyAMA0,115200 
@@ -95,8 +95,6 @@ Press Home > insert a # symbol to comment out that line and Ctrl X, Y, Enter to 
 ```
 sudo reboot
 ```
-
-
 
 
 ### Step 6. Test the GPS
