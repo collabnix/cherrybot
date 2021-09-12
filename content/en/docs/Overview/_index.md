@@ -14,12 +14,6 @@ description: >
 
 A CherryBot is an autonomous robotic system powered with production-ready System on Module(SOM) NVIDIA Jetson Nano board, a low-powered AI deployed as Edge device, a sensor suite that includes multiple cameras, GPS and swappable batteries.It is an autonomous delivery robot which picks up and delivers swags and food items within a conference, campus or a roughly 5-6 square kilometers area centered around university premises. The goal is to allow the robot to traverse a given conference and campus area delimited by coordinates on a GPS receiver, detect and avoid obstacles in its path, thereby distributing swags and food items using Deep Learning algorithm.
 
-## How did you develop it?
-
-This DIY project involves both hardware and software development.
-
-- In the hardware part we will leverage robotic components, both in terms of aerial as well as terrestrial locomotion.
-- The software part will involve developing an encrypted QR code generator which runs inside the Docker container and detects the QR code sign to deliver the package.
 
 ## What is it good for?
 
