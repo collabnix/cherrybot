@@ -539,6 +539,8 @@ And that’s it!
 open frontend.html
 ```
 
+![image](googlemap.png)
+
 
 
 
