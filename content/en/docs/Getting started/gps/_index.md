@@ -52,7 +52,7 @@ There are only 4 wires (F to F), so it's a simple connection.
 
 ![image](gps2.jpeg)
 
-##  Turn Off the Serial Console
+###  Turn Off the Serial Console
 
 By default, the Raspberry Pi uses the UART as a serial console. We need to turn off that functionality so that we can use the UART for our own application. Open a terminal session on the Raspberry Pi.
 
@@ -123,7 +123,7 @@ sudo gpsd /dev/ttyAMA0 -F /var/run/gpsd.sock
 cgps -s
 ```
 
-## Fetching the Values
+### Fetching the Values
 
 ### Clone the repository
 
@@ -132,7 +132,7 @@ git clone https://github.com/collabnix/cherrybot
 cd cherrybot/pubnub/
 ```
 
-## Fetching the GPS values
+### Fetching the GPS values
 
 ```
 python3 gps.py
@@ -164,7 +164,7 @@ Latitude=12.9813966667and Longitude=77.66834
 
 ## Ploting the GPS Values over Google Map
 
-# Stream Data Over PubNub
+## Stream Data Over PubNub
 
 If you haven’t already done so, [sign up for a free PubNub account](https://admin.pubnub.com/) before you begin this step.
 
