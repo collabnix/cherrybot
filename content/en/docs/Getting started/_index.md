@@ -23,6 +23,7 @@ description: >
 | 11 | Soldering Mat | [Buy](https://www.amazon.in/Scout-Insulation-Silicone-Magnetic-Soldering/dp/B07W98FT6D/) | |
 | 12 | SD Card 128 GB | [Buy](https://www.amazon.in/SanDisk-microSDXC-Memory-Adapter-SDSQUAR-128G-GN6MA/dp/B073JYC4XM/) | | 
 | 13 | Noctua Fans | [Buy](https://www.primeabgb.com/online-price-reviews-india/nocuta-nf-a14-ippc-3000-pwm-140mm-pwm-aao-frame-technology-and-sso2-bearing-fan/) | | 14 | USB C Power Cable | [Buy]() | | 
+| 14 | NEO-6M GPS Module with EPROM | [Buy](https://robu.in/product/ublox-neo-6m-gps-module/) | |
 
 
 
