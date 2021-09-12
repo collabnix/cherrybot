@@ -10,7 +10,7 @@ description: >
 
 | S. No. |Items        |   Link        | Reference |
 | ------------- |:-------------:| -----:| -----:|
-| 1 | Prusa i3 MK3S | [Buy](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html) | | 
+| 1 | [Prusa i3 MK3S](https://cherrybot.collabnix.com/docs/getting-started/#prusa-i3-mks3d-printer) | [Buy](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html) | | 
 | 2 | Arduino Uno | [Buy](https://robu.in/product/original-arduino-uno-rev3/) |  |
 | 3 | 300 RPM BO Motor-Straight | [Buy](https://robu.in/product/300-rpm-bo-motor-straight/) | | 
 | 4 | L293D Motor Driver  | [Buy](https://robu.in/product/l298p-motor-driver-shield-for-arduino/) |  | 
