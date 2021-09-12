@@ -1,7 +1,7 @@
 ---
 title: "Working with NVIDIA Jetson AGX Xavier"
 linkTitle: "Working with NVIDIA Jetson AGX Xavier"
-weight: 100
+weight: 1400
 description: >-
      Getting Started with NVIDIA Jetson AGX Xavier
 ---
