@@ -22,17 +22,20 @@ The GPS module has serial TTL output, it has four pins: TX, RX, VCC, and GND. Yo
 5. [Ploting the GPS Values over Google Map](#ploting-the-GPS-Values-over-Google-Map)
 6. [Stream Data Over PubNub](#stream-data-ver-pubnub)
 
-
+## Intent
 
 How to connect GPS to Raspberry Pi or Arduino and fetch the latitude and longitude values
 
 ## Hardware 
 
+- Raspberry Pi/Arduino
 - NEO-6M GPS Module with EPROM
 
 ![image](gps1.jpeg)
 
-- Raspberry Pi / Arduino
+## Software
+
+- Flash Rapsberry Pi SD card with OS using Etcher
 
 ## Connect the GPS module to the Raspberry PI. 
 
