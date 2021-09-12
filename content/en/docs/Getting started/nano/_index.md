@@ -13,7 +13,7 @@ description: >-
 3. [Software](#Software)
 4. [Preparing Your Jetson Nano](#preparing-your-jetson-nano)
    - [Flashing SD card image](#1-flashing-sd-card-image)
-   - [Vefifying Docker Binaries](#2-verifying-if-it-is-shipped-with-docker-binaries)
+   - [Verifying Docker Binaries](#2-verifying-if-it-is-shipped-with-docker-binaries)
 
 
 ## Intent
