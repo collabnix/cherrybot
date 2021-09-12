@@ -51,14 +51,14 @@ By default, the Raspberry Pi uses the UART as a serial console. We need to turn 
 sudo cp /boot/cmdline.txt /boot/cmdline_backup.txt 
 ```
 
-Press Enter.
+
 
 ### Step 2. Edit cmdlint.txt and remove the serial interface
 
 ```sudo nano /boot/cmdline.txt
 ```
 
-Press Enter.
+
 
 ### Step 3. Delete console=ttyAMA0,115200 
 
@@ -70,7 +70,7 @@ Once you delete it, save the file by pressing Ctrl X, Y, and Enter.
 sudo nano /etc/inittab 
 ```
 
-Press enter.
+
 
 ### Step 5. Find ttyAMA0 
 
@@ -82,7 +82,35 @@ Press Home > insert a # symbol to comment out that line and Ctrl X, Y, Enter to 
 sudo reboot
 ```
 
-Press Enter to restart the Pi.
+
+
+
+### Step 6. Test the GPS
+
+Open a terminal session and type 
+
+```
+sudo apt-get install gpsd gpsd-clients
+```
+
+
+### Step 7. Start the serial port:
+
+```
+stty -F /dev/ttyAMA0 9600
+```
+
+Now start GPSD:
+
+```
+sudo gpsd /dev/ttyAMA0 -F /var/run/gpsd.sock
+```
+
+### Step 8. Final Results
+
+```
+cgps -s
+```
 
 
 
