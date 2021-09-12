@@ -6,9 +6,7 @@ description: >
   A Quick Overview of CherryBot Robot Systems
 ---
 
-{{% pageinfo %}}
-This page talks about overall details related to CherryBot Robot Systems
-{{% /pageinfo %}}
+![image](cherrybot-prototype.png)
 
 
 
