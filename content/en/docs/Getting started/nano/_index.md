@@ -6,6 +6,8 @@ description: >-
      Getting Started with NVIDIA Jetson Nano
 ---
 
+![image](https://lh4.googleusercontent.com/gTcTpHJkmjAYxr4Ubg6qDOEDIq9v_JY2hnbV6kLpdWnCob2Y6For4VroGaNTZcBptyBTYlPffxUAANdI78-YfgECNKblWULa-ibedZphApk1WErWJ05zpiTjidwrgG9dYpfuXTtsGwc)
+
 ## Table of Contents
 
 1. [Intent](#Intent)
