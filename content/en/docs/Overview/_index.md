@@ -36,5 +36,5 @@ This is just a prototype and not to be used for production
 
 
 * [Getting Started](/docs/getting-started/): Get started with $project
-* [Examples](/docs/examples/): Check out some example code!
+
 
