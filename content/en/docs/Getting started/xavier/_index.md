@@ -211,7 +211,7 @@ Ensure that /etc/docker/daemon.json with the path to nvidia-container-runtime:
 sudo pkill -SIGHUP dockerd
 ```
 
-## Running the DeepStreaming Container
+## Running the DeepStream Container
 
 - DeepStream 5.1 provides Docker containers for both dGPU and Jetson platforms. 
 - These containers provide a convenient, out-of-the-box way to deploy DeepStream applications by packaging all associated dependencies within the container. 
