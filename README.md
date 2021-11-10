@@ -1,4 +1,12 @@
-# Docsy Example
+# CherryBot - An AI-based Payload Delivery Robot
+
+A CherryBot is an autonomous robotic system powered with production-ready System on Module(SOM) NVIDIA Jetson Nano board, a low-powered AI deployed as Edge device, a sensor suite that includes multiple cameras, GPS and swappable batteries.It is an autonomous delivery robot which picks up and delivers swags and food items within a conference, campus or a roughly 5-6 square kilometers area centered around university premises. The goal is to allow the robot to traverse a given conference and campus area delimited by coordinates on a GPS receiver, detect and avoid obstacles in its path, thereby distributing swags and food items using Deep Learning algorithm.
+
+
+
+
+
+# How to Contribute to this site
 
 [Docsy](https://github.com/google/docsy) is a Hugo theme for technical documentation sites, providing easy site navigation, structure, and more. This **Docsy Example Project** uses the Docsy theme, as well as providing a skeleton documentation structure for you to use. You can either copy this project and edit it with your own content, or use the theme in your projects like any other [Hugo theme](https://gohugo.io/themes/installing-and-using-themes/).
 
