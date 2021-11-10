@@ -1,5 +1,8 @@
 # CherryBot - An AI-based Payload Delivery Robot
 
+![image](https://user-images.githubusercontent.com/313480/141065069-a1aa8ac4-247a-45a4-97d4-72ebcda8f497.png)
+
+
 A CherryBot is an autonomous robotic system powered with production-ready System on Module(SOM) NVIDIA Jetson Nano board, a low-powered AI deployed as Edge device, a sensor suite that includes multiple cameras, GPS and swappable batteries.It is an autonomous delivery robot which picks up and delivers swags and food items within a conference, campus or a roughly 5-6 square kilometers area centered around university premises. The goal is to allow the robot to traverse a given conference and campus area delimited by coordinates on a GPS receiver, detect and avoid obstacles in its path, thereby distributing swags and food items using Deep Learning algorithm.
 
 
