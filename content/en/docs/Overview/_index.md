@@ -27,6 +27,6 @@ This is just a prototype and not to be used for production
 ## Where should I go next?
 
 
-* [Getting Started](/docs/getting-started/): Get started with $project
+* [Getting Started](/docs/getting-started/): Get started 
 
 
