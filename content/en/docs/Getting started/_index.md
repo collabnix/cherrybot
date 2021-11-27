@@ -25,7 +25,7 @@ description: >
 | 13 | Noctua Fans | [Buy](https://www.primeabgb.com/online-price-reviews-india/nocuta-nf-a14-ippc-3000-pwm-140mm-pwm-aao-frame-technology-and-sso2-bearing-fan/) | | 14 | USB C Power Cable | [Buy]() | | 
 | 15 | [NEO-6M GPS Module with EPROM](https://cherrybot.collabnix.com/docs/getting-started/gps/) | [Buy](https://robu.in/product/ublox-neo-6m-gps-module/) | |
 | 16 | [HC-SR04-Ultrasonic Range Finder](https://robu.in/product/hc-sr04-ultrasonic-range-finder) | [Buy](https://robu.in/product/hc-sr04-ultrasonic-range-finder) | |
-
+| 17 | [HC-05 6pin Bluetooth Module with Button](https://robu.in/product/hc-05-6pin-bluetooth-module-with-button) | [Buy](https://robu.in/product/hc-05-6pin-bluetooth-module-with-button) | |
 
 
 ## Prusa i3 MKS(3D Printer)
