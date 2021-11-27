@@ -23,7 +23,8 @@ description: >
 | 11 | Soldering Mat | [Buy](https://www.amazon.in/Scout-Insulation-Silicone-Magnetic-Soldering/dp/B07W98FT6D/) | |
 | 12 | SD Card 128 GB | [Buy](https://www.amazon.in/SanDisk-microSDXC-Memory-Adapter-SDSQUAR-128G-GN6MA/dp/B073JYC4XM/) | | 
 | 13 | Noctua Fans | [Buy](https://www.primeabgb.com/online-price-reviews-india/nocuta-nf-a14-ippc-3000-pwm-140mm-pwm-aao-frame-technology-and-sso2-bearing-fan/) | | 14 | USB C Power Cable | [Buy]() | | 
-| 14 | [NEO-6M GPS Module with EPROM](https://cherrybot.collabnix.com/docs/getting-started/gps/) | [Buy](https://robu.in/product/ublox-neo-6m-gps-module/) | |
+| 15 | [NEO-6M GPS Module with EPROM](https://cherrybot.collabnix.com/docs/getting-started/gps/) | [Buy](https://robu.in/product/ublox-neo-6m-gps-module/) | |
+| 16 | [HC-SR04-Ultrasonic Range Finder](https://robu.in/product/hc-sr04-ultrasonic-range-finder) | [Buy](https://robu.in/product/hc-sr04-ultrasonic-range-finder) | |
 
 
 
