@@ -8,4 +8,4 @@ description: >-
 
 ## Phase 1: Connecting Motor Driver to Bluetooth
 
-![My Image]()
+![My Image](motordriverbluetooth.png)
