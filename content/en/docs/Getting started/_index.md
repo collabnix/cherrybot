@@ -22,7 +22,7 @@ description: >
 | 10 | Soldering Workstation | [Buy](https://sumitron.com/product/hakko-fx-801-soldering-station/) | |
 | 11 | Soldering Mat | [Buy](https://www.amazon.in/Scout-Insulation-Silicone-Magnetic-Soldering/dp/B07W98FT6D/) | |
 | 12 | SD Card 128 GB | [Buy](https://www.amazon.in/SanDisk-microSDXC-Memory-Adapter-SDSQUAR-128G-GN6MA/dp/B073JYC4XM/) | | 
-| 13 | Noctua Fans | [Buy](https://www.primeabgb.com/online-price-reviews-india/nocuta-nf-a14-ippc-3000-pwm-140mm-pwm-aao-frame-technology-and-sso2-bearing-fan/) | | 14 | USB C Power Cable | [Buy]() | | 
+| 13 | Noctua Fans NF-A4x10 FLX | [Buy](https://www.amazon.in/Noctua-Cooling-Blades-Bearing-NF-A4x10/dp/B009NQLT0M) | | 14 | USB C Power Cable | [Buy]() | | 
 | 15 | [NEO-6M GPS Module with EPROM](https://cherrybot.collabnix.com/docs/getting-started/gps/) | [Buy](https://robu.in/product/ublox-neo-6m-gps-module/) | |
 | 16 | [HC-SR04-Ultrasonic Range Finder](https://robu.in/product/hc-sr04-ultrasonic-range-finder) | [Buy](https://robu.in/product/hc-sr04-ultrasonic-range-finder) | |
 | 17 | [HC-05 6pin Bluetooth Module with Button](https://robu.in/product/hc-05-6pin-bluetooth-module-with-button) | [Buy](https://robu.in/product/hc-05-6pin-bluetooth-module-with-button) | |
