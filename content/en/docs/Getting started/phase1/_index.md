@@ -16,7 +16,7 @@ description: >-
 
 ## Step 2: Installing it over Arduino
 
-![My Image](arduino.jpeg)
+![My Image](cherrybot3.jpeg)
 
 ## Step 3. Adding IR Sensor
 
@@ -28,6 +28,4 @@ description: >-
 
 <tbd>
      
-## Step 5. Make it Ready
-     
-![My Image](cherrybot3.jpeg)
+
