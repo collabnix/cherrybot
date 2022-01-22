@@ -16,11 +16,11 @@ description: >-
 
 ## Step 2: Installing it over Arduino
 
-![My Image]()
+![My Image](arduino.jpeg)
 
 ## Step 3. Adding IR Sensor
 
-![My Image]()
+![My Image](irsensors.jpeg)
 
 ## Step 4. Adding Wheels
 
