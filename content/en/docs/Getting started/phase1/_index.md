@@ -3,7 +3,7 @@ title: "Phase 1 Integration"
 linkTitle: "Phase 1 Integration"
 weight: 150
 description: >-
-     Page description for heading and indexes.
+     How to build a CherryBot Prototype
 ---
 
 ## Hardware Requirements
