@@ -1,5 +1,5 @@
 ---
-title: "Phase 1 Integration"
+title: "Phase 1 Integration (Terrestrial)"
 linkTitle: "Phase 1 Integration"
 weight: 150
 description: >-
