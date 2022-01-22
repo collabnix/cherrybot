@@ -6,6 +6,10 @@ description: >-
      Page description for heading and indexes.
 ---
 
+## Hardware Requirements
+
+![My Image](cherrybot1.jpeg)
+
 ## Step 1: Connecting Motor Driver to Bluetooth
 
 ![My Image](motordriverbluetooth.png)
@@ -20,7 +24,7 @@ description: >-
 
 ## Step 4. Adding Wheels
 
-![My Image]()
+![My Image](inmotion.png)
 
 <tbd>
      
