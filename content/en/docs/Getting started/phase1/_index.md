@@ -23,3 +23,7 @@ description: >-
 ![My Image]()
 
 <tbd>
+     
+## Step 5. Make it Ready
+     
+![My Image](cheryrbot3.jpeg)
