@@ -26,4 +26,4 @@ description: >-
      
 ## Step 5. Make it Ready
      
-![My Image](cheryrbot3.jpeg)
+![My Image](cherrybot3.jpeg)
