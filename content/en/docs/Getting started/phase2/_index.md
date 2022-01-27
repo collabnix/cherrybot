@@ -1,6 +1,6 @@
 ---
 title: "Phase 2 Integration (Aerial)"
-linkTitle: "Phase 2 Aerial"
+linkTitle: "Phase 2 Integration - Prototyping (Aerial"
 weight: 160
 description: >-
      Fire Detection and Analytics using Drone, Jetson Nano and NVIDIA DeepStream
@@ -21,6 +21,7 @@ Building an Intelligent Fire Detection and Analytics using Drone, Jetson Nano an
 
 ## Setting up Drone
 
+![image2](image_setupdrone.jpeg)
 - Power-on Drone 
 - Configure it as a hotspot
 - Connect Jetson to Drone via hotspot
@@ -354,3 +355,14 @@ pip3 install <packagename>
 # For requirements.txt
 pip3 install -r requirements.txt
 ```
+
+
+## How does it work?
+
+![myimage](image_inference.png)
+
+- Annotated collected images/videos from the web and used them as a dataset to train our model.
+- Trained the model with Darknet on your Desktop
+- YOLOv3 algorithm to train fire detection model for custom object detection.
+- Update YOLO parameter based on this document https://docs.nvidia.com/metropolis/deepstream/Custom_YOLO_Model_in_the_DeepStream_YOLO_App.pdf 14
+- Run your YOLO model with DeepStream /opt/nvidia/deepstream/deepstream-4.0/sources/objectDetector_Yolo/
